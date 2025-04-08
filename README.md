@@ -1,3 +1,11 @@
+- change remote origin git:
+
+```bash
+git remote set-url origin https://github.com/newuser/newname.git
+```
+
+<br>
+
 - get total download pypi
 
 ```py
