@@ -12,5 +12,12 @@ git remote set-url origin https://github.com/newuser/newname.git
 margin: top right bottom left;
 ```
 
+<br>
+
+- cancel a `git add`
+
+```bash
+git restore --staged .
+```
 
 <br><br>
