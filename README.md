@@ -20,4 +20,12 @@ margin: top right bottom left;
 git restore --staged .
 ```
 
+<br>
+
+- last time a file has been modified
+
+```bash
+git log -1 --format="%cr" -- path/to/file
+```
+
 <br><br>
